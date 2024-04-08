@@ -1,7 +1,6 @@
 <!-- PROJECT LOGO -->
-<script src="https://kit.fontawesome.com/86a33ae1aa.js" crossorigin="anonymous"></script>
 
- <h2 align="center" >Boting</h2>
+ <h2 align="center" >Boting this bot muic</h2>
 
 
 ## Features
